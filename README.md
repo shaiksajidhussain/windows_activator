@@ -10,7 +10,7 @@ Windows Activator offers a free Windows key :
 -The Instructions are first you need to copy the code.
 -Then click on Notepad and paste the code which you have copied from GitHub.
 -Click on save as Activator.bat
--Run as administrator. and wait for the magic. keep rocking......
+-Run as administrator. and wait for the magic. keep rocking.......
 
 
 
